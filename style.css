@@ -22,7 +22,7 @@ header {
 .logo img {
   max-width: 90px;
   height: auto;
-  border-radius: px;
+  border-radius: 4px;
 }
 
 .navmenu {
